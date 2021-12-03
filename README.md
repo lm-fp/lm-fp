@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, 🌎! </h1>
-<h3 align="center">Meu nome é Leticia e faço Ciencia da Computação. Atualmente moro em Teresina e estou a procura de estágio na área de tecnologia para que possa discorrer ainda mais as minhas habilidades.</h3>
+<h3 align="center">Meu nome é Leticia e faço Ciencia da Computação.
 
 <p align="center">
   <img src="https://vignette.wikia.nocookie.net/dbxfanon/images/7/79/Typing_zpsde8eaab3.gif/revision/latest?cb=20161207015206">
