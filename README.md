@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center"> Hello, 🌎! </h1>
+<h3 align="center">Meu nome é Leticia e faço Ciencia da Computação. Atualmente moro em Teresina e estou a procura de estágio na área de tecnologia para que possa discorrer ainda mais as minhas habilidades.</h3>
 
-<!--
-**lm-fp/lm-fp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://vignette.wikia.nocookie.net/dbxfanon/images/7/79/Typing_zpsde8eaab3.gif/revision/latest?cb=20161207015206">
+</p>
 
-Here are some ideas to get you started:
+## ⭐️ Atualmente estou estudando...
+- Python<br>
+- Mysql<br>
+- Php <br>
+- Seguranca da informação - Ofensiva<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## ⭐️ Redes Socias...
+
+<div> 
+  <a href="https://www.instagram.com/lm.fp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lm.pires0.16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-maria-69124b222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
