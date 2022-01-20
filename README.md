@@ -8,7 +8,7 @@
 ## ⭐️ Atualmente estou estudando...
 - Python<br>
 - Mysql<br>
-- Seguranca da informação - Ofensiva<br><br>
+- Seguranca da informação<br><br>
 
  ## ⭐️ Redes Socias...
 
